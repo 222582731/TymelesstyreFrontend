@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tymelesstyre-frontend
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# TymelesstyreFrontend
+>>>>>>> 72767eea312307da3394df64169b416d4d16c4bc
