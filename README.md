@@ -80,8 +80,7 @@ Vue.js Frontend  →  Spring Boot API  →  Database
 ---
 
 ##  Screenshots
-
-*(Add screenshots of the customer interface and admin dashboard here)*
+![image alt](https://github.com/222582731/E-Portfolio/blob/main/presentation%20screenshot.png)
 
 ---
 
