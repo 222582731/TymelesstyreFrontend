@@ -1,16 +1,16 @@
 
 # Tymelesstyre
 
-🚗 **Tymeless Tyre** is a full-stack e-commerce web application for selling **car tyres and rims** online.
+ **Tymeless Tyre** is a full-stack e-commerce web application for selling **car tyres and rims** online.
 Customers can browse products, manage their cart, and place orders securely, while administrators manage inventory and store operations.
 
 This project demonstrates modern full-stack development using **Java Spring Boot** for the backend and **Vue.js** for the frontend.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 🔹 Backend
+###  Backend
 
 * Java
 * Spring Boot
@@ -19,7 +19,7 @@ This project demonstrates modern full-stack development using **Java Spring Boot
 * RESTful API
 * JPA / Hibernate
 
-### 🔹 Frontend
+###  Frontend
 
 * Vue.js
 * Vue Router
@@ -28,9 +28,9 @@ This project demonstrates modern full-stack development using **Java Spring Boot
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 Customer Features
+###  Customer Features
 
 * User registration & login
 * Secure authentication using JWT
@@ -39,7 +39,7 @@ This project demonstrates modern full-stack development using **Java Spring Boot
 * Add items to cart
 * Checkout & place orders
 
-### 🔐 Security & Authentication
+###  Security & Authentication
 
 * Spring Security integration
 * JWT-based authentication & authorization
@@ -47,7 +47,7 @@ This project demonstrates modern full-stack development using **Java Spring Boot
 * Protected API endpoints
 * Password encryption
 
-### 🛒 Product Browsing
+###  Product Browsing
 
 * Product listings with pricing
 * Category-based browsing
@@ -55,21 +55,21 @@ This project demonstrates modern full-stack development using **Java Spring Boot
 
 ---
 
-## 🛠 Admin Dashboard
+##  Admin Dashboard
 
 Administrators have full control over store management:
 
-* ➕ Add new tyres & rims
-* ✏️ Update product information & pricing
-* ❌ Remove products
-* 📦 Manage inventory
-* 👀 View and manage product listings
+*  Add new tyres & rims
+*  Update product information & pricing
+*  Remove products
+*  Manage inventory
+*  View and manage product listings
 
 > Admin routes and endpoints are protected and accessible only to authorized users.
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 The **Vue.js frontend** communicates with a **Spring Boot REST API**, which handles business logic, authentication, and database operations.
 
@@ -79,28 +79,12 @@ Vue.js Frontend  →  Spring Boot API  →  Database
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 *(Add screenshots of the customer interface and admin dashboard here)*
 
 ---
 
-## 🚀 Future Improvements
-
-* Online payment integration
-* Order tracking system
-* Product reviews & ratings
-* Sales analytics dashboard
-* Mobile optimization
-
----
-
-## 👨‍💻 Author
+##  Author
 
 **Yanga Jilaji**
-
----
-
-## 📄 License
-
-This project is for educational purposes.
