@@ -85,6 +85,10 @@ Vue.js Frontend  →  Spring Boot API  →  Database
 
 ![image alt](https://github.com/222582731/TymelesstyreFrontend/blob/main/customer%20screenshot.png)
 
+**Admin Side**
+
+![image alt](https://github.com/222582731/TymelesstyreFrontend/blob/main/admin%20screenshot.png)
+
 ---
 
 ##  Author
