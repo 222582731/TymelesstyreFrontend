@@ -80,7 +80,7 @@ Vue.js Frontend  →  Spring Boot API  →  Database
 ---
 
 ##  Screenshots
-![image alt](https://github.com/222582731/E-Portfolio/blob/main/presentation%20screenshot.png)
+![image alt](https://github.com/222582731/TymelesstyreFrontend/blob/main/customer%20screenshot.png)
 
 ---
 
