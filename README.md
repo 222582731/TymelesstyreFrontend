@@ -80,6 +80,7 @@ Vue.js Frontend  →  Spring Boot API  →  Database
 ---
 
 ##  Screenshots
+**Customer Side**
 ![image alt](https://github.com/222582731/TymelesstyreFrontend/blob/main/customer%20screenshot.png)
 
 ---
